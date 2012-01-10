@@ -1,0 +1,8 @@
+Energy Saver for Web - A Jquery plug-in
+$(energysaver)- Energy Saver for Web. This is a simple jquery plug-in that can save a lot of energy on web.
+
+//usage $.energysaver();
+//or - 
+$.energysaver({options}); 
+//default options - 
+{ delay: 5000, events: 'mousemove mousedown keydown' } 
